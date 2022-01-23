@@ -25,4 +25,4 @@ with canvas(device) as draw:
 #loop
 import time
 
-time.sleep(20)
+time.sleep(120)
