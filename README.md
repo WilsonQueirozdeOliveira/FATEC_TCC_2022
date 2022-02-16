@@ -2,8 +2,12 @@
 
 <p>Author_1: Wilson Queiroz de Oliveira</br>
 Author_2: Miguel Balbastro Gomes </p>
+
 ## Dependencies for jetson nano
 
+## Test Vehicle
+
+![plot](./images/test_vehicle.jpg)
 
 ## Dependencies for programing_examples/python_examples.ipynb
 
