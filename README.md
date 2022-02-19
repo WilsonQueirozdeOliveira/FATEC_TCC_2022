@@ -9,6 +9,10 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ![plot](./images/test_vehicle.jpg)
 
+## HMI Manual Control Painel
+
+![plot](./images/ihm_manual_control.png)
+
 ## Dependencies for programing_examples/python_examples.ipynb
 
 - miniconda
