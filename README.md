@@ -5,11 +5,25 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ## Dependencies for jetson nano
 
+- jatpack 4.6
+- sudo pip3 install Jetson.GPIO
+- sudo pip3 install jupyter
+- sudo apt-get install build-essential libi2c-dev i2c-tools python-dev libffi-dev
+- sudo pip3 install PCA9685-driver
+- sudo apt-get install libcanberra-gtk-module
+- sudo pip3 install pyPS4Controller
+- sudo pip3 install pyserial
+- sudo pip3 install ADS1115
+- sudo pip3 install mpu6050-raspberrypi
+- sudo pip3 install board
+- sudo pip3 install Adafruit-Blinka
+- sudo pip3 install natsort
+
 ## Test Vehicle
 
 ![plot](./images/test_vehicle.jpg)
 
-## HMI Manual Control Painel
+## HMI Manual Control Panel
 
 ![plot](./images/ihm_manual_control.png)
 
