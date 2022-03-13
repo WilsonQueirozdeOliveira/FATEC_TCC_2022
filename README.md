@@ -25,6 +25,8 @@ Author_2: Miguel Balbastro Gomes </p>
 - sudo pip3 install natsort
 - sudo pip3 install pillow
 
+- gps uart permition: sudo chmod 666 /dev/ttyTHS1
+
 ## Test Vehicle
 
 ![plot](./images/test_vehicle.jpg)
