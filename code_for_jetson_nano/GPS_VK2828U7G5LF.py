@@ -85,7 +85,7 @@ def read_gps():
                     return msg#string
                     break
                 else:
-                    return 0
+                    return msg
                     break
         except:
             return 0
