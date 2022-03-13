@@ -35,6 +35,10 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ![plot](./images/ihm_manual_control_2.png)
 
+## HMI Sensors data
+
+![plot](./images/ihm_manual_control_3.png)
+
 ## Dependencies for programing_examples/python_examples.ipynb
 
 - miniconda
