@@ -5,7 +5,7 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ## Dependencies for jetson nano
 
-- jatpack 4.6
+- jatpack 4.6 or new OS Ubunto 20.04 -> https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
 - sudo pip3 install Jetson.GPIO
 - sudo pip3 install jupyter
 
