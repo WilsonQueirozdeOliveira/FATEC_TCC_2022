@@ -20,6 +20,8 @@ Author_2: Miguel Balbastro Gomes </p>
 - sudo pip3 install mpu6050-raspberrypi
 - sudo pip3 install board
 - sudo pip3 install Adafruit-Blinka
+- sudo pip3 install luma.core
+- sudo pip3 install luma.oled
 - sudo pip3 install natsort
 - sudo pip3 install pillow
 
