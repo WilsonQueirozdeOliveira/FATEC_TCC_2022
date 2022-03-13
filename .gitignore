@@ -4,3 +4,4 @@
 .README.md.un~
 .gitignore~
 README.md~
+*__pycache__
