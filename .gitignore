@@ -5,3 +5,6 @@
 .gitignore~
 README.md~
 *__pycache__
+code_for_jetson_nano/frame.jpg
+code_for_jetson_nano/mask_green.jpg
+code_for_jetson_nano/mask_orange.jpg
