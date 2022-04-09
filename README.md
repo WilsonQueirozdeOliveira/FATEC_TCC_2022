@@ -13,7 +13,10 @@ Author_2: Miguel Balbastro Gomes </p>
 - sudo pip3 install PCA9685-driver
 
 - sudo apt-get install libcanberra-gtk-module
+- sudo apt-get install python3-setuptools
+- ~/pyPS4Controller$ sudo python3 setup.py install
 - sudo pip3 install pyPS4Controller
+- sudo pip3 install ds4drv
 
 - sudo pip3 install pyserial
 - sudo pip3 install ADS1115
