@@ -42,6 +42,10 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ![plot](./images/ihm_manual_control_3.png)
 
+## Color Detection
+
+![plot](./images/ihm_manual_control_4.png)
+
 ## Dependencies for programing_examples/python_examples.ipynb
 
 - miniconda
