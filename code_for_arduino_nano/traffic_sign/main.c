@@ -23,9 +23,14 @@ int main(void)
 	DDRD |= (1<<LED_PIN_G);// set pin (PORTD 6) as output
 	while(1)
 	{
-		PORTD ^= (1<<LED_PIN_R);// toggles pin (PORTD 2)
-		PORTD ^= (1<<LED_PIN_Y);// toggles pin (PORTD 4)
 		PORTD ^= (1<<LED_PIN_G);// toggles pin (PORTD 6)
-		_delay_ms(1000); // busy wait, 500ms
+		_delay_ms(5000);
+		PORTD ^= (1<<LED_PIN_G);// toggles pin (PORTD 6)
+		PORTD ^= (1<<LED_PIN_Y);// toggles pin (PORTD 4)
+		_delay_ms(1000);
+		PORTD ^= (1<<LED_PIN_Y);// toggles pin (PORTD 4)
+		PORTD ^= (1<<LED_PIN_R);// toggles pin (PORTD 2)
+		_delay_ms(5000);
+		PORTD ^= (1<<LED_PIN_R);// toggles pin (PORTD 2)
 	}
 }
