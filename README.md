@@ -46,6 +46,10 @@ Author_2: Miguel Balbastro Gomes </p>
 
 ![plot](./images/ihm_manual_control_4.png)
 
+## traffic_sign 
+
+<img src="./images/traffic_sign.jpg" alt="drawing" width="300"/>
+
 ## Dependencies for programing_examples/python_examples.ipynb
 
 - miniconda
