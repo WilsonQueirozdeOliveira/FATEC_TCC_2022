@@ -8,6 +8,7 @@ Author_2: Miguel Balbastro Gomes </p>
 - jatpack 4.6 or new OS Ubunto 20.04 -> https://github.com/Qengineering/Jetson-Nano-Ubuntu-20-image
 - sudo pip3 install Jetson.GPIO
 - sudo pip3 install jupyter
+- sudo pip3 install jupyterlab
 
 - sudo apt-get install build-essential libi2c-dev i2c-tools python-dev libffi-dev
 - sudo pip3 install PCA9685-driver
